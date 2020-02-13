@@ -1,0 +1,124 @@
+
+
+    
+.carousel{
+    height: 100%;
+    width: 100%;
+}
+
+.nav1{
+    background-color: rgba(000,0,0, 0.5);
+    position: fixed;
+    z-index: 233;
+    color: black;
+  
+
+}
+
+p{
+    font-family:serif ;
+}
+h2{
+font-size: 150%;
+}
+
+.zne{
+    z-index: 2;
+    position: re;
+}
+.visite{
+
+    position: relative;
+    top: -20em;
+    font-family: serif;
+    font-size: 160%;
+    color:black;
+}
+.fleche{
+    position: relative;
+
+}
+.butt{
+    position: relative;
+    top: 15em;
+   
+
+}
+
+.body1{
+    background: url(polynesia-3021072_1920.jpg) center;
+    background-size: cover;
+    background-attachment: fixed;
+
+   
+    
+}
+.body2{
+    background: url(andre-benz-tPPi0jzLP_w-unsplash.jpg) center;
+    background-size: cover;
+    background-attachment: fixed;
+
+   
+    
+}
+.body3{
+    background: url(airport-2373727_1920.jpg) center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body4{
+    background: url() center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text-justify{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+.titre{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.formu{
+    margin-top: 10%;
+    background-color: #8ddcfc;
+    padding: 3%;
+    border-radius: 5%;
+    
+}
+.text1{
+    text-align: center;
+    color: red;
+    position: relative;
+    top: 12em;
+    
+}
+.hist{
+    font-weight: bold;
+    font-size: larger;
+    background-color: white;
+    opacity: 65%;
+}
+.row1{
+    height: 150px;
+}
+.trouv{
+   float: right;
+   text-align: center;
+   font-size: 100px;
+   color: red;
+}
+.footer{
+    position: relative;
+    background-color: black;
+    opacity: 60%;
+    color:white;
+    padding-bottom: 1em;
+}
+.reseau{
+    width: 2em;
+
+   }
+    

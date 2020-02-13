@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+}
+
+#titre {
+    text-align: center;
+    display: none;
+}
+
+.carre {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display:inline-block;
+}
+
+.button {
+    text-align: center;
+}
+
+.bloc {
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#div1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+}
+
+#div2 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+}
+
+#div3 {
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+}
+
+
+#button1 {
+    text-align: center;
+}
+
+#carre1 {
+    background-color: royalblue;
+    width: 800px;
+    height: 200px;
+    display:inline-block;
+    justify-content: center;
+}
+
+.button5 {
+    display:inline-block;
+    justify-content: center;
+}
+
+.para1 {
+    display:inline-block;
+    justify-content: center;
+}
+
+#blabla {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+
+
+.azerty {
+    position: fixed;
+}
+
+.tyuiop {
+    background-color: yellow;
+}
